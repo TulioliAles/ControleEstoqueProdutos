@@ -6,9 +6,9 @@
 ![](https://github.com/TulioliAles/ControleEstoqueProdutos/blob/master/home.png)
 
 #### Tela Produtos: Onde são listados os produtos cadastrados - Contém os botões para Criar/Editar/Excluir um produto.
-![](https://github.com/TulioliAles/ControleEstoqueProdutos/blob/master/produtos.png)
+![])
 
 #### Tela Novo Produto: Onde serão inseridos os novos produtos.
-![](https://github.com/TulioliAles/ControleEstoqueProdutos/blob/master/novo_produto.png)
+![]()
 
 
